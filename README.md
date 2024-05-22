@@ -1,4 +1,5 @@
 # ANSIBLE-DYNAMIC-ASSIGNMENTS-AND-IMPORTS-COMMUNITY-ROLE
+<<<<<<< HEAD
 ## Ansible Dynamic -Assignment &; Community Role
 
 
@@ -211,7 +212,6 @@ loadbalancers.yml file
 ### we were equipped with the tools to seamlessly adapt to dynamic infrastructures, delegate tasks effectively, and to collaborate with a vibrant community. 
 ### We have learnt how to automate easily.
 ### Knowledge acquired can be reapply in the real-world scenario 
-
 
 
 
